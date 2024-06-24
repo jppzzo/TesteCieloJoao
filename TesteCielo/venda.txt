@@ -1,0 +1,63 @@
+//venda
+
+
+{
+  "MerchantOrderId": "P10",
+  "Customer": {
+    "Name": "Teste de Cancelamento",
+    "Identity": "01234567890",
+    "IdentityType": "CPF",
+    "Email": "teste@teste.com",
+    "Birthdate": "1991-01-01"
+  },
+  "Payment": {
+    "ServiceTaxAmount": 0,
+    "Installments": 1,
+    "Interest": 0,
+    "Capture": true,
+    "Authenticate": false,
+    "Recurrent": false,
+    "CreditCard": {
+      "CardNumber": "402400******3191",
+      "Holder": "Teste Holder",
+      "ExpirationDate": "12/2026",
+      "SaveCard": false,
+      "Brand": "Visa",
+      "CardOnFile": {
+        "Usage": "Used",
+        "Reason": "Unscheduled"
+      },
+      "PaymentAccountReference": "GQ6MPE0ZHIC613PW1A7BMOC5JBD14"
+    },
+    "Tid": "0622063729978",
+    "ProofOfSale": "051893",
+    "AuthorizationCode": "759362",
+    "SoftDescriptor": "123456789ABCD",
+    "Provider": "Simulado",
+    "IsQrCode": false,
+    "Amount": 100,
+    "ReceivedDate": "2024-06-22 18:37:29",
+    "CapturedAmount": 100,
+    "CapturedDate": "2024-06-22 18:37:29",
+    "Status": 2,
+    "IsSplitted": false,
+    "ReturnMessage": "Operation Successful",
+    "ReturnCode": "6",
+    "PaymentId": "c7f8d4ce-5b9b-4894-ab8a-a0c063747d7d",
+    "Type": "CreditCard",
+    "Currency": "BRL",
+    "Country": "BRA",
+    "Links": [
+      {
+        "Method": "GET",
+        "Rel": "self",
+        "Href": "https://apiquerysandbox.cieloecommerce.cielo.com.br/1/sales/c7f8d4ce-5b9b-4894-ab8a-a0c063747d7d"
+      },
+      {
+        "Method": "PUT",
+        "Rel": "void",
+        "Href": "https://apisandbox.cieloecommerce.cielo.com.br/1/sales/c7f8d4ce-5b9b-4894-ab8a-a0c063747d7d/void"
+      }
+    ]
+  }
+}

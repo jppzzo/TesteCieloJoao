@@ -1,0 +1,57 @@
+C:\Projetos\TesteCielo\TesteCielo\bin\Debug\net5.0\TesteCielo.exe
+C:\Projetos\TesteCielo\TesteCielo\bin\Debug\net5.0\TesteCielo.deps.json
+C:\Projetos\TesteCielo\TesteCielo\bin\Debug\net5.0\TesteCielo.runtimeconfig.json
+C:\Projetos\TesteCielo\TesteCielo\bin\Debug\net5.0\TesteCielo.runtimeconfig.dev.json
+C:\Projetos\TesteCielo\TesteCielo\bin\Debug\net5.0\TesteCielo.dll
+C:\Projetos\TesteCielo\TesteCielo\bin\Debug\net5.0\TesteCielo.pdb
+C:\Projetos\TesteCielo\TesteCielo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Projetos\TesteCielo\TesteCielo\bin\Debug\net5.0\RestSharp.dll
+C:\Projetos\TesteCielo\TesteCielo\obj\Debug\net5.0\TesteCielo.csproj.AssemblyReference.cache
+C:\Projetos\TesteCielo\TesteCielo\obj\Debug\net5.0\TesteCielo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\TesteCielo\TesteCielo\obj\Debug\net5.0\TesteCielo.AssemblyInfoInputs.cache
+C:\Projetos\TesteCielo\TesteCielo\obj\Debug\net5.0\TesteCielo.AssemblyInfo.cs
+C:\Projetos\TesteCielo\TesteCielo\obj\Debug\net5.0\TesteCielo.csproj.CoreCompileInputs.cache
+C:\Projetos\TesteCielo\TesteCielo\obj\Debug\net5.0\TesteCielo.csproj.CopyComplete
+C:\Projetos\TesteCielo\TesteCielo\obj\Debug\net5.0\TesteCielo.dll
+C:\Projetos\TesteCielo\TesteCielo\obj\Debug\net5.0\refint\TesteCielo.dll
+C:\Projetos\TesteCielo\TesteCielo\obj\Debug\net5.0\TesteCielo.pdb
+C:\Projetos\TesteCielo\TesteCielo\obj\Debug\net5.0\TesteCielo.genruntimeconfig.cache
+C:\Projetos\TesteCielo\TesteCielo\obj\Debug\net5.0\ref\TesteCielo.dll
+C:\Users\danni\Downloads\testesapicielo-main\testesapicielo-main\TesteCielo\bin\Debug\net5.0\TesteCielo.exe
+C:\Users\danni\Downloads\testesapicielo-main\testesapicielo-main\TesteCielo\bin\Debug\net5.0\TesteCielo.deps.json
+C:\Users\danni\Downloads\testesapicielo-main\testesapicielo-main\TesteCielo\bin\Debug\net5.0\TesteCielo.runtimeconfig.json
+C:\Users\danni\Downloads\testesapicielo-main\testesapicielo-main\TesteCielo\bin\Debug\net5.0\TesteCielo.runtimeconfig.dev.json
+C:\Users\danni\Downloads\testesapicielo-main\testesapicielo-main\TesteCielo\bin\Debug\net5.0\TesteCielo.dll
+C:\Users\danni\Downloads\testesapicielo-main\testesapicielo-main\TesteCielo\bin\Debug\net5.0\TesteCielo.pdb
+C:\Users\danni\Downloads\testesapicielo-main\testesapicielo-main\TesteCielo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\danni\Downloads\testesapicielo-main\testesapicielo-main\TesteCielo\bin\Debug\net5.0\RestSharp.dll
+C:\Users\danni\Downloads\testesapicielo-main\testesapicielo-main\TesteCielo\obj\Debug\net5.0\TesteCielo.csproj.AssemblyReference.cache
+C:\Users\danni\Downloads\testesapicielo-main\testesapicielo-main\TesteCielo\obj\Debug\net5.0\TesteCielo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danni\Downloads\testesapicielo-main\testesapicielo-main\TesteCielo\obj\Debug\net5.0\TesteCielo.AssemblyInfoInputs.cache
+C:\Users\danni\Downloads\testesapicielo-main\testesapicielo-main\TesteCielo\obj\Debug\net5.0\TesteCielo.AssemblyInfo.cs
+C:\Users\danni\Downloads\testesapicielo-main\testesapicielo-main\TesteCielo\obj\Debug\net5.0\TesteCielo.csproj.CoreCompileInputs.cache
+C:\Users\danni\Downloads\testesapicielo-main\testesapicielo-main\TesteCielo\obj\Debug\net5.0\TesteCielo.csproj.Up2Date
+C:\Users\danni\Downloads\testesapicielo-main\testesapicielo-main\TesteCielo\obj\Debug\net5.0\TesteCielo.dll
+C:\Users\danni\Downloads\testesapicielo-main\testesapicielo-main\TesteCielo\obj\Debug\net5.0\refint\TesteCielo.dll
+C:\Users\danni\Downloads\testesapicielo-main\testesapicielo-main\TesteCielo\obj\Debug\net5.0\TesteCielo.pdb
+C:\Users\danni\Downloads\testesapicielo-main\testesapicielo-main\TesteCielo\obj\Debug\net5.0\TesteCielo.genruntimeconfig.cache
+C:\Users\danni\Downloads\testesapicielo-main\testesapicielo-main\TesteCielo\obj\Debug\net5.0\ref\TesteCielo.dll
+C:\Users\danni\OneDrive\Área de Trabalho\testesapicielo-main\testesapicielo-main\TesteCielo\bin\Debug\net5.0\TesteCielo.exe
+C:\Users\danni\OneDrive\Área de Trabalho\testesapicielo-main\testesapicielo-main\TesteCielo\bin\Debug\net5.0\TesteCielo.deps.json
+C:\Users\danni\OneDrive\Área de Trabalho\testesapicielo-main\testesapicielo-main\TesteCielo\bin\Debug\net5.0\TesteCielo.runtimeconfig.json
+C:\Users\danni\OneDrive\Área de Trabalho\testesapicielo-main\testesapicielo-main\TesteCielo\bin\Debug\net5.0\TesteCielo.runtimeconfig.dev.json
+C:\Users\danni\OneDrive\Área de Trabalho\testesapicielo-main\testesapicielo-main\TesteCielo\bin\Debug\net5.0\TesteCielo.dll
+C:\Users\danni\OneDrive\Área de Trabalho\testesapicielo-main\testesapicielo-main\TesteCielo\bin\Debug\net5.0\TesteCielo.pdb
+C:\Users\danni\OneDrive\Área de Trabalho\testesapicielo-main\testesapicielo-main\TesteCielo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\danni\OneDrive\Área de Trabalho\testesapicielo-main\testesapicielo-main\TesteCielo\bin\Debug\net5.0\RestSharp.dll
+C:\Users\danni\OneDrive\Área de Trabalho\testesapicielo-main\testesapicielo-main\TesteCielo\obj\Debug\net5.0\TesteCielo.csproj.AssemblyReference.cache
+C:\Users\danni\OneDrive\Área de Trabalho\testesapicielo-main\testesapicielo-main\TesteCielo\obj\Debug\net5.0\TesteCielo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danni\OneDrive\Área de Trabalho\testesapicielo-main\testesapicielo-main\TesteCielo\obj\Debug\net5.0\TesteCielo.AssemblyInfoInputs.cache
+C:\Users\danni\OneDrive\Área de Trabalho\testesapicielo-main\testesapicielo-main\TesteCielo\obj\Debug\net5.0\TesteCielo.AssemblyInfo.cs
+C:\Users\danni\OneDrive\Área de Trabalho\testesapicielo-main\testesapicielo-main\TesteCielo\obj\Debug\net5.0\TesteCielo.csproj.CoreCompileInputs.cache
+C:\Users\danni\OneDrive\Área de Trabalho\testesapicielo-main\testesapicielo-main\TesteCielo\obj\Debug\net5.0\TesteCielo.csproj.Up2Date
+C:\Users\danni\OneDrive\Área de Trabalho\testesapicielo-main\testesapicielo-main\TesteCielo\obj\Debug\net5.0\TesteCielo.dll
+C:\Users\danni\OneDrive\Área de Trabalho\testesapicielo-main\testesapicielo-main\TesteCielo\obj\Debug\net5.0\refint\TesteCielo.dll
+C:\Users\danni\OneDrive\Área de Trabalho\testesapicielo-main\testesapicielo-main\TesteCielo\obj\Debug\net5.0\TesteCielo.pdb
+C:\Users\danni\OneDrive\Área de Trabalho\testesapicielo-main\testesapicielo-main\TesteCielo\obj\Debug\net5.0\TesteCielo.genruntimeconfig.cache
+C:\Users\danni\OneDrive\Área de Trabalho\testesapicielo-main\testesapicielo-main\TesteCielo\obj\Debug\net5.0\ref\TesteCielo.dll

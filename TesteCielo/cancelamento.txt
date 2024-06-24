@@ -1,0 +1,21 @@
+//cancelamento
+
+{
+  "Status": 10,
+  "ReasonCode": 0,
+  "ReasonMessage": "Successful",
+  "ProviderReturnCode": "0",
+  "ProviderReturnMessage": "Operation Successful",
+  "ReturnCode": "0",
+  "ReturnMessage": "Operation Successful",
+  "Tid": "0622063729978",
+  "ProofOfSale": "051893",
+  "AuthorizationCode": "759362",
+  "Links": [
+    {
+      "Method": "GET",
+      "Rel": "self",
+      "Href": "https://apiquerysandbox.cieloecommerce.cielo.com.br/1/sales/c7f8d4ce-5b9b-4894-ab8a-a0c063747d7d"
+    }
+  ]
+}
