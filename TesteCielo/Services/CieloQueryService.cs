@@ -10,8 +10,10 @@ namespace TesteCielo.Services
     public class CieloCancelService
     {
         private readonly string _urlRequest = "https://apisandbox.cieloecommerce.cielo.com.br/1/sales/";
-        private string _merchantId = "9a1388e3-68fe-4ad1-85e5-60b8d4766599";
-        private string _merchantKey = "EYWONCYWECYTNWAOSDGFHVENUFYKZERAJOGWXZKU";
+        //Digite sua ID
+        private string _merchantId = "Digite sua ID";
+        //Digite sua Key
+        private string _merchantKey = "Digite sua Key";
 
         public Dictionary<bool, string> CancelTransactionCreditCard(ResultCreditCardModel ResultCreditCardPayment)
         {
